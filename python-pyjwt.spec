@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Implementacja JSON Web Token w Pythonie 2
 Name:		python-%{module}
 # keep 1.x here for python2 support
 Version:	1.7.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pyjwt/
