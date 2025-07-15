@@ -74,7 +74,7 @@ napisana przez @progrium.
 
 %prep
 %setup -q -n PyJWT-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 # Remove bundled egg-info
 %{__rm} -r PyJWT.egg-info
